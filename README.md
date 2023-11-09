@@ -1,5 +1,5 @@
 
-# YUEF - Crypto Messaging
+# YUEF - Crypto Messaging App
 
 An E2EE Messaging App using via SwiftUI, CryptoKit & Keychain.
 
