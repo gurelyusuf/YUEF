@@ -91,7 +91,7 @@ struct MainMessagesView: View {
             }
             .fullScreenCover(isPresented: $vm.userSignedInOnAnotherDevice) {
                 VStack{
-                    Text("It looks like this account is already signed-in on another device. Please log out there to sign in here.").padding()
+                    Text("Başka bir cihazda oturum açıldı. Lütfen çıkış yapın").padding()
                 }
             }
             
