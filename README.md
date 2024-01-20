@@ -32,7 +32,6 @@ An E2EE Messaging App using via SwiftUI, CryptoKit & Keychain.
 
 <div>
   <img width="250" alt="" src="https://i.ibb.co/jMxSq0g/1.png">
-  <img width="250" alt="" src="https://i.ibb.co/vxqyxdM/2.png">
   <img width="250" alt="" src="https://i.ibb.co/DfCHj6T/3.png">
   <img width="250" alt="" src="https://i.ibb.co/f45pgTH/4.png">
 </div>
